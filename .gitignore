@@ -1,7 +1,6 @@
 # dependencies
 /node_modules
 /.next
-/.readme-static
 
 # production
 /build
